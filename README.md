@@ -1,5 +1,5 @@
 # CAD-Models
-Please cite: "Pan, W., Yang, Y., Gao, S.: A New Kind of Dual-level Retrieval Approach for CAD Models, Computer-Aided Design and Applications, 2020".
+"Pan, W., Yang, Y., Gao, S.: A New Kind of Dual-level Retrieval Approach for CAD Models, Computer-Aided Design and Applications, 2020".
 
 The CAD models in dataset are divided into 25 classes with 1004 parts.
 
